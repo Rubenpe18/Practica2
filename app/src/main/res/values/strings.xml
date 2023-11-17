@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Practica2_k</string>
+    <string name="nuevo_contacto">Nuevo Contacto</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellidos">Apellidos</string>
+    <string name="telefono">Telefono</string>
+    <string name="notas">notas</string>
 </resources>
