@@ -45,7 +45,7 @@
     <EditText
         android:id="@+id/etNotas"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_height="531dp"
         android:layout_weight="1"
         android:background="#DFEA73"
         android:ems="10"
